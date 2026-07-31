@@ -1,0 +1,59 @@
+[
+  {
+    "order_id": 101,
+    "order_date": "2026-03-15",
+    "customer": {
+      "id": "CUST-901",
+      "name": "Sumedh",
+      "address": {
+        "city": "Solan",
+        "state": "Himachal Pradesh",
+        "pincode": 173206
+      }
+    },
+    "items": [
+      {
+        "item_id": "ITM-01",
+        "product_name": "GPU",
+        "pricing": {
+          "unit_price": 4500,
+          "tax": 810
+        },
+        "quantity": 1
+      },
+      {
+        "item_id": "ITM-02",
+        "product_name": "Headphones",
+        "pricing": {
+          "unit_price": 1200,
+          "tax": 216
+        },
+        "quantity": 2
+      }
+    ]
+  },
+  {
+    "order_id": 102,
+    "order_date": "2026-03-16",
+    "customer": {
+      "id": "CUST-902",
+      "name": "Mr.Jamun",
+      "address": {
+        "city": "Solan",
+        "state": "Himachal Pradesh",
+        "pincode": 173206
+      }
+    },
+    "items": [
+      {
+        "item_id": "ITM-03",
+        "product_name": "DogFood",
+        "pricing": {
+          "unit_price": 2500,
+          "tax": 450
+        },
+        "quantity": 1
+      }
+    ]
+  }
+]
