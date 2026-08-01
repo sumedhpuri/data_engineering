@@ -1,0 +1,35 @@
+[
+  {
+    "server_id": "SRV-01",
+    "location": "us-east-1",
+    "cpu_usage_pct": {
+      "core_0": 45.2,
+      "core_1": 88.7,
+      "core_2": 12.0,
+      "core_3": 64.5
+    },
+    "service_status": {
+      "nginx": "running",
+      "postgres": "running",
+      "redis": "stopped"
+    }
+  },
+  {
+    "server_id": "SRV-02",
+    "location": "eu-central-1",
+    "cpu_usage_pct": {
+      "core_0": 92.1,
+      "core_1": 95.4
+    },
+    "service_status": {
+      "nginx": "running",
+      "docker": "running"
+    }
+  },
+  {
+    "server_id": "SRV-03",
+    "location": "ap-south-1",
+    "cpu_usage_pct": null,
+    "service_status": {}
+  }
+]
