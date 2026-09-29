@@ -1,0 +1,8 @@
+{"event_id": "e001", "event_time": "2026-09-29T12:00:01", "customer_id": 1, "ride_id": 2001, "amount": 350, "event_type": "ride_completed"}
+{"event_id": "e002", "event_time": "2026-09-29T12:00:08", "customer_id": 2, "ride_id": 2002, "amount": 480, "event_type": "ride_completed"}
+{"event_id": "e003", "event_time": "2026-09-29T12:00:15", "customer_id": 3, "ride_id": 2003, "amount": 275, "event_type": "ride_completed"}
+{"event_id": "e004", "event_time": "2026-09-29T12:00:25", "customer_id": 1, "ride_id": 2004, "amount": 525, "event_type": "ride_completed"}
+{"event_id": "e005", "event_time": "2026-09-29T12:00:35", "customer_id": 5, "ride_id": 2005, "amount": 810, "event_type": "ride_completed"}
+{"event_id": "e006", "event_time": "2026-09-29T12:00:45", "customer_id": 7, "ride_id": 2006, "amount": 430, "event_type": "ride_completed"}
+{"event_id": "e007", "event_time": "2026-09-29T12:00:55", "customer_id": 9, "ride_id": 2007, "amount": 610, "event_type": "ride_completed"}
+{"event_id": "e008", "event_time": "2026-09-29T12:01:05", "customer_id": 10, "ride_id": 2008, "amount": 390, "event_type": "ride_completed"}

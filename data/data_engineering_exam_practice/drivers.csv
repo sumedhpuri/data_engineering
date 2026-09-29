@@ -1,0 +1,9 @@
+driver_id,driver_name,city,driver_rating,status
+101,Raj,Delhi,4.8,active
+102,Vikram,Mumbai,4.5,active
+103,Suresh,Bengaluru,4.7,inactive
+104,Manoj,Pune,4.2,active
+105,Amit,Hyderabad,4.9,active
+106,Karan,Chennai,4.1,active
+107,Dev,Kolkata,4.6,active
+108,Nitin,Jaipur,3.9,inactive
